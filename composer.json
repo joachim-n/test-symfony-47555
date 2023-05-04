@@ -1,0 +1,21 @@
+{
+    "name": "joachim/test-symfony-47555",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.6",
+        "symfony/var-dumper": "^6.0",
+        "symfony/symfony": "^6.0",
+        "symfony/phpunit-bridge": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Joachim\\TestSymfony47555\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joachim Noreiko",
+            "email": "joachim@107701.no-reply.drupal.org"
+        }
+    ]
+}
